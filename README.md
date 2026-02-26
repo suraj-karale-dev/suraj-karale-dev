@@ -1,16 +1,16 @@
 # 👋 Hello, I’m **Suraj Karale**
 
 > Full Stack Developer  
-> Passionate about building scalable applications and delivering impactful solutions. ([linkedin.com](https://www.linkedin.com/in/suraj-karale/))
+> Passionate about building scalable applications and delivering impactful solutions.
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Software Engineer** with experience in full stack development and a strong interest in modern web technologies. I enjoy learning, building, and deploying real-world applications that solve problems and deliver value. ([linkedin.com](https://www.linkedin.com/in/suraj-karale/))
+I’m a **Software Engineer** with experience in full stack development and a strong interest in modern web technologies. I enjoy learning, building, and deploying real-world applications that solve problems and deliver value. 
 
 🌍 Based in **United States of America**  
-💼 Currently working at **Xoriant** ([linkedin.com](https://www.linkedin.com/in/suraj-karale/))  
+💼 Currently working at **Xoriant**
 
 ---
 
